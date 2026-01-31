@@ -5,18 +5,6 @@ A curated collection of **hands-on DevOps, Cloud, and AI projects** focused on r
 
 This repository is designed to demonstrate practical expertise in **cloud-native architectures, AI-driven tooling, and DevOps best practices**.
 
----
-
-## 📂 Projects
-
-### 🤖 AI Agents
-
-#### Strands + Ollama AI Agent
-- Local Large Language Model (LLM) powered by **Gemma 3B**
-- Built using the **Strands agent framework**
-- Tool-enabled agent with HTTP request capabilities
-- Fully local execution — **no API keys or paid services required**
-- Designed for extensibility and automation use cases
 
 ---
 
@@ -30,10 +18,11 @@ This repository is designed to demonstrate practical expertise in **cloud-native
 
 ---
 
-## 👨‍💻 Author
+Gopesh Thakare ✨
+Cloud & DevOps Engineer | AI & Automation Explorer 🤖 | Turning Ideas into Scalable, Intelligent Solutions ☁️💡
 
-**Gopesh Thakare**  
-DevOps & Cloud Engineer | AI & Automation Enthusiast  
+🚀 Passionate about building cloud-native systems, automating workflows, and leveraging AI to solve real-world problems.
+🌐 Always exploring next-gen technologies and creating tools that make life easier for developers and businesses alike.
 
 ---
 
